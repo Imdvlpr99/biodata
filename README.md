@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 ![Sample Image](./images/app.jpg)
+![Sample Image](./images/img.png)
+![Sample Image](./images/img_1.png)
+
